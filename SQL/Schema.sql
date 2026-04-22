@@ -62,3 +62,11 @@ payment_status varchar(10),
 
 Foreign key (treatment_id) references Treatments(treatment_id)
 );
+
+
+-- Error solving
+alter table Patients
+alter column contact_number varchar(20);
+
+alter table Doctor
+alter column phone_number varchar(20);
