@@ -1,0 +1,19 @@
+2026-04-23 14:53:23,969 - INFO - ETL pipeline started
+2026-04-23 14:53:23,986 - ERROR - Error occurred: name 'new_patients' is not defined
+2026-04-23 14:53:23,986 - INFO - ETL pipeline finished
+2026-04-23 14:54:09,495 - INFO - ETL pipeline started
+2026-04-23 14:54:09,501 - INFO - Inserting 0 new patients
+2026-04-23 14:54:09,501 - INFO - ETL pipeline finished
+2026-04-23 15:43:17,791 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-23 15:43:17,793 - WARNING - No such comm: 02cb1345-a9c8-4b5a-8d0c-74e294afd6b7
+2026-04-23 15:45:33,844 - INFO - ETL pipeline started
+2026-04-23 15:45:33,860 - INFO - Inserting 0 new patients
+2026-04-23 15:45:33,860 - INFO - ETL pipeline finished
+2026-04-23 15:49:27,665 - INFO - Inserting 0 new treatments
+2026-04-23 15:49:27,665 - INFO - ETL pipeline finished
+2026-04-23 15:49:35,879 - INFO - ETL pipeling started
+2026-04-23 15:49:35,885 - INFO - Inserting 0 new appointments
+2026-04-23 15:49:35,885 - INFO - ETL pipeline finished
+2026-04-23 15:51:43,827 - INFO - ETL pipeline started
+2026-04-23 15:51:43,859 - INFO - Inserting 0 new billings
+2026-04-23 15:51:43,859 - INFO - ETL pipeline finished
